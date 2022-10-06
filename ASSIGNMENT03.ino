@@ -31,3 +31,5 @@ except KeywordInterrupt:
     GPI0.cleanup()
     print("TRAFFIC LIGHT SEQUENCE DONE")
             
+your doing in you repo ,but actually u need to do this on ibm repo to clarify 
+mail me : smartwaste.ccet@gmail.com
